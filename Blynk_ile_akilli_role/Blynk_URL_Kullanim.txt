@@ -1,0 +1,1 @@
+http://139.59.206.133/Blynk_uygulamasından_alınan_auth/update/pin_adı?value=1
